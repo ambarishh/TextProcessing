@@ -1,4 +1,3 @@
-package one.a;
 
 /**
  * Basic class for pairing a word/2-gram/palindrome with its frequency.
